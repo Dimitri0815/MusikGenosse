@@ -1,0 +1,2 @@
+# MusikGenosse
+Musik Genosse Bot
